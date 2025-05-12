@@ -1,0 +1,10 @@
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\bin\Debug\Tchat.exe.config
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\bin\Debug\Tchat.exe
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\bin\Debug\Tchat.pdb
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.csproj.AssemblyReference.cache
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.Form1.resources
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.Properties.Resources.resources
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.csproj.GenerateResource.cache
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.csproj.CoreCompileInputs.cache
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.exe
+\\1363-SRV-FILES\perso\ELEVES\T STI2D1\BOUMEHDI\Documents\Tchat\Tchat\obj\Debug\Tchat.pdb
